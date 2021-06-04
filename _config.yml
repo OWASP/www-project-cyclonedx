@@ -1,3 +1,5 @@
 remote_theme: "owasp/www--site-theme@main"
 plugins:
  - jekyll-include-cache-0.2.0
+code_user: CycloneDX
+code_repo: specification
