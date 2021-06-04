@@ -19,8 +19,9 @@ with the standard.
 The projects website has many documented [use cases and examples](https://cyclonedx.org/use-cases/) that provide a 
 springboard to SBOM adoption. 
 
-The project operates as meritocracy whose [guiding principals](https://cyclonedx.org/about/guiding-principles/) 
-reinforce its [risk-based approach to standards development](https://cyclonedx.org/about/standardization-process/). 
+The project operates as [meritocracy](https://cyclonedx.org/about/governance/) whose 
+[guiding principals](https://cyclonedx.org/about/guiding-principles/) reinforce its 
+[risk-based approach to standards development](https://cyclonedx.org/about/standardization-process/). 
 The project encourages [community participation](https://cyclonedx.org/about/participate/) in the development of the 
 [standard and supporting tools](https://github.com/CycloneDX).
 
