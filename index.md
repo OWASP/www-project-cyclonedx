@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP CycloneDX
 tags: example-tag
-level: 2
+level: 4
 type: standards
 pitch: A very brief, one-line description of your project
 
