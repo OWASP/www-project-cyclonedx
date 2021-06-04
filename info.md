@@ -5,14 +5,14 @@
 
 #### Classification
 
-* <i class="fas fa-tools" style="color:#233e81;"></i> Standard
+* <i class="fas fa-book-open" style="color:#233e81;"></i> Standard
 
 #### Audience
 
 * <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 * <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
-### External Resources
+### Project Resources
 
 * [Website](https://cyclonedx.org/)
 * [GitHub](https://github.com/CycloneDX)
@@ -21,4 +21,4 @@
 
 ### Licensing
 
-[Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0)
+[Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
