@@ -24,7 +24,9 @@ reinforce its [risk-based approach to standards development](https://cyclonedx.o
 The project encourages [community participation](https://cyclonedx.org/about/participate/) in the development of the 
 [standard and supporting tools](https://github.com/CycloneDX).
 
-![alt text](/assets/images/CycloneDX-Twitter-Card.png)
+
+[![alt text](/assets/images/CycloneDX-Twitter-Card.png)](https://cyclonedx.org)
+
 
 ### Background
 Modern software is assembled using third-party and open source components. They are glued together in complex and 
