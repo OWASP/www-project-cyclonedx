@@ -1,6 +1,7 @@
 ---
 
-title: CycloneDX Unplugged
+title: Unplugged
+displaytext: CycloneDX Unplugged
 layout: null
 order: 2
 tab: true
