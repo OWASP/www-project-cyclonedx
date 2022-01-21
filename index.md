@@ -11,10 +11,10 @@ pitch: CycloneDX is a lightweight software bill of materials (SBOM) standard des
 
 OWASP CycloneDX is a lightweight Bill of Materials (BOM) standard designed for use in application security contexts and
 supply chain component analysis. The specification excels in:
-* [Software Bill of Materials (SBOM)](https://cyclonedx.org/capabilities/sbom/),
-* [Software-as-a-Service Bill of Materials (SaaSBOM)](https://cyclonedx.org/capabilities/saasbom/),
-* [Operations Bill of Materials (OBOM)](https://cyclonedx.org/capabilities/obom/),
-* [Manufacturing Bill of Materials (MBOM)](https://cyclonedx.org/capabilities/mbom/),
+* [Software Bill of Materials (SBOM)](https://cyclonedx.org/capabilities/sbom/)
+* [Software-as-a-Service Bill of Materials (SaaSBOM)](https://cyclonedx.org/capabilities/saasbom/)
+* [Operations Bill of Materials (OBOM)](https://cyclonedx.org/capabilities/obom/)
+* [Manufacturing Bill of Materials (MBOM)](https://cyclonedx.org/capabilities/mbom/)
 * [Security advisory format](https://cyclonedx.org/capabilities/bov/) that can optionally communicate the [exploitability of vulnerabilities](https://cyclonedx.org/capabilities/vex/)
 
 The CycloneDX project provides standards in XML, JSON, and Protocol Buffers, as well as a large 
