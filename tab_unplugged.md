@@ -15,8 +15,8 @@ CycloneDX Unplugged is a community showcase of commercial and open source projec
 the OWASP CycloneDX Software Bill of Materials (SBOM) standard. CycloneDX Unplugged is part of the 
 [CycloneDX YouTube channel](https://www.youtube.com/channel/UCcUKDc0izYoyQKdzAsraoUQ).
 
-A focus of the playlist is on the creation, consumption, analysis, conversion, and distribution of CycloneDX along the 
-tools and processes that serve to better operationalize SBOMs for greater transparency and cybersecurity risk reduction.
+A focus of the playlist is on the creation, consumption, analysis, conversion, and distribution of CycloneDX along with 
+the tools and processes that serve to better operationalize SBOMs for greater transparency and cybersecurity risk reduction.
 
 CycloneDX Unplugged honors OWASP's mission of helping improve software security in a vendor neutral way. Requirements
 for inclusion are:
