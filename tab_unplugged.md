@@ -31,3 +31,4 @@ for inclusion are:
 To participate in CycloneDX Unplugged, please send an email to the CycloneDX project leads:
 * Patrick Dwyer <patrick.dwyer@owasp.org>
 * Steve Springett <steve.springett@owasp.org>
+* Jeffry Hesse <jeffry.hesse@owasp.org>
