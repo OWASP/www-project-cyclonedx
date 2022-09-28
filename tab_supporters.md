@@ -29,6 +29,10 @@ But we have also been helped by many organizations, either financially or by enc
     <a href="https://www.fortressinfosec.com/"><img class="cdx-supporter" src="assets/images/fortress.svg" alt="Fortress Information Security"></a>
   </div></div></div>
 
+  <div class="logo-card-container"><div class="logo-card"><div class="logo-card-body">
+    <a href="https://kondukto.io/"><img class="cdx-supporter" src="assets/images/kondukto.svg" alt="Kondukto"></a>
+  </div></div></div>
+
 </div>
 
 ## Industry Working Group Supporters
