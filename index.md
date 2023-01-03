@@ -18,9 +18,6 @@ cyber risk reduction. The specification supports:
 * Vulnerability Disclosure Reports (VDR)
 * Vulnerability Exploitability eXchange (VEX)
 
-Strategic direction of the specification is managed by the CycloneDX Core Working Group, is backed by the
-[OWASP Foundation](https://owasp.org), and is supported by the global information security community.
-
 The CycloneDX project provides standards in XML, JSON, and Protocol Buffers, as well as a large 
 [collection of official and community supported tools](https://cyclonedx.org/tool-center/) that create or interoperate 
 with the standard. 
@@ -45,5 +42,6 @@ components enables organizations to identify risk, allows for greater transparen
 
 CycloneDX was created for this purpose.
 
-Strategic direction and maintenance of the [specification](https://cyclonedx.org/docs/latest) is managed by 
-the [CycloneDX Core Working Group](https://cyclonedx.org/about/working-groups/).
+Strategic direction of the [specification](https://cyclonedx.org/docs/latest) is managed by 
+the [CycloneDX Core Working Group](https://cyclonedx.org/about/working-groups/), is backed by the
+[OWASP Foundation](https://owasp.org), and is supported by the global information security community.
