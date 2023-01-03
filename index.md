@@ -5,17 +5,21 @@ title: OWASP CycloneDX
 tags: cyclonedx bom sbom  scrm cscrm transparency supply-chain
 level: 4
 type: standards
-pitch: CycloneDX is a lightweight software bill of materials (SBOM) standard designed for use in application security contexts and supply chain component analysis.
+pitch: OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction.
 
 ---
 
-OWASP CycloneDX is a lightweight Bill of Materials (BOM) standard designed for use in application security contexts and
-supply chain component analysis. The specification excels in:
-* [Software Bill of Materials (SBOM)](https://cyclonedx.org/capabilities/sbom/)
-* [Software-as-a-Service Bill of Materials (SaaSBOM)](https://cyclonedx.org/capabilities/saasbom/)
-* [Operations Bill of Materials (OBOM)](https://cyclonedx.org/capabilities/obom/)
-* [Manufacturing Bill of Materials (MBOM)](https://cyclonedx.org/capabilities/mbom/)
-* [Security advisory format](https://cyclonedx.org/capabilities/bov/) that can optionally communicate the [exploitability of vulnerabilities](https://cyclonedx.org/capabilities/vex/)
+OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for
+cyber risk reduction. The specification supports:
+* Software Bill of Materials (SBOM)
+* Software-as-a-Service Bill of Materials (SaaSBOM)
+* Hardware Bill of Materials (HBOM)
+* Operations Bill of Materials (OBOM)
+* Vulnerability Disclosure Reports (VDR)
+* Vulnerability Exploitability eXchange (VEX)
+
+Strategic direction of the specification is managed by the CycloneDX Core Working Group, is backed by the
+[OWASP Foundation](https://owasp.org), and is supported by the global information security community.
 
 The CycloneDX project provides standards in XML, JSON, and Protocol Buffers, as well as a large 
 [collection of official and community supported tools](https://cyclonedx.org/tool-center/) that create or interoperate 
