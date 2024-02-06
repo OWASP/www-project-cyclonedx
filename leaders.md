@@ -3,3 +3,4 @@
 * [Steve Springett](mailto:steve.springett@owasp.org)
 * [Jeffry Hesse](mailto:jeffry.hesse@owasp.org)
 * [Jan Kowalleck](mailto:jan.kowalleck@owasp.org)
+* [Matt Rutkowski](mailto:matt.rutkowski@owasp.org)
