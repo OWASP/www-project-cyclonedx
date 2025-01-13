@@ -30,7 +30,7 @@ The specification supports:
 * Vulnerability Exploitability eXchange (VEX)
 * CycloneDX Attestations (CDXA)
 
-The CycloneDX project provides standards in XML, JSON, and Protocol Buffers, as well as a large 
+The CycloneDX project provides standards in JSON, XML, and Protocol Buffers, as well as a large 
 [collection of official and community supported tools](https://cyclonedx.org/tool-center/) that create or interoperate 
 with the standard. 
 
