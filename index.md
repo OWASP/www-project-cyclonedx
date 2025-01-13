@@ -9,6 +9,8 @@ pitch: OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that pro
 
 ---
 
+[![alt text](./assets/images/CycloneDX-Social-Card.png)](https://cyclonedx.org)
+
 # CycloneDX Bill of Materials Specification (ECMA-424)
 OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for
 cyber risk reduction. CycloneDX is an [Ecma International](https://ecma-international.org/) standard published as
@@ -41,8 +43,6 @@ The project operates as a [meritocracy](https://cyclonedx.org/about/governance/)
 The project encourages [community participation](https://cyclonedx.org/participate/contribute) in the development of the 
 [standard and supporting tools](https://github.com/CycloneDX).
 
-
-[![alt text](/assets/images/CycloneDX-Social-Card.png)](https://cyclonedx.org)
 
 Strategic direction of the [specification](https://cyclonedx.org/docs/latest) is managed by 
 the [CycloneDX Core Working Group](https://cyclonedx.org/participate/working-groups/), is backed by the
