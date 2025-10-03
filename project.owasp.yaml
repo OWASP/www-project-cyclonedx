@@ -1,0 +1,233 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Patrick Dwyer
+    email: patrick.dwyer@owasp.org
+    github: coderpatros
+  - name: Steve Springett
+    email: steve.springett@owasp.org
+    github: stevespringett
+  - name: Jeffry Hesse
+    email: jeffry.hesse@owasp.org
+    github: DarthHater
+  - name: Jan Kowalleck
+    email: jan.kowalleck@owasp.org
+    github: jkowalleck
+  - name: Matt Rutkowski
+    email: matt.rutkowski@owasp.org
+    github: mrutkows
+level: 4
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+  - CC-BY-SA-4.0
+  - CC0-1.0
+  - MIT
+name: OWASP CycloneDX (ECMA-424)
+pitch: OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction.
+repositories:
+  - name: www-project-cyclonedx
+    url: https://github.com/OWASP/www-project-cyclonedx
+    description: OWASP Foundation Web Repository
+  - name: .github
+    url: https://github.com/CycloneDX/.github
+  - name: acme-weather-station
+    url: https://github.com/CycloneDX/acme-weather-station
+    description: A mock IOT weather station with support for BOM retrieval.
+  - name: bom-examples
+    url: https://github.com/CycloneDX/bom-examples
+    description: A repository with examples of CycloneDX BOMs (SBOM, SaaSBOM, OBOM, VEX, etc)
+  - name: cdxgen
+    url: https://github.com/CycloneDX/cdxgen
+    description: Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers.
+      Integrate in your CI/CD pipeline with automatic submission to Dependency Track server
+  - name: cdxgen-action
+    url: https://github.com/CycloneDX/cdxgen-action
+    description: GitHub action for CycloneDX BOM generator (cdxgen). cdxgen produced bom xml file can be uploaded to dependency track, AppThreat and other
+      commercial Software Composition Analysis (SCA) products
+  - name: cdxgen-plugins-bin
+    url: https://github.com/CycloneDX/cdxgen-plugins-bin
+    description: Binary plugins for @cyclonedx/cdxgen npm package
+  - name: cyclonedx-authoring-tool
+    url: https://github.com/CycloneDX/cyclonedx-authoring-tool
+    description: An experimental user interface for manually creating, editing, and viewing CycloneDX SBOMs
+  - name: cyclonedx-bom-repo-server
+    url: https://github.com/CycloneDX/cyclonedx-bom-repo-server
+    description: A BOM repository server for distributing CycloneDX BOMs
+  - name: cyclonedx-buildroot
+    url: https://github.com/CycloneDX/cyclonedx-buildroot
+    description: Create CycloneDX Software Bill of Materials (SBOM) for Buildroot projects
+  - name: cyclonedx-cli
+    url: https://github.com/CycloneDX/cyclonedx-cli
+    description: CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
+  - name: cyclonedx-cocoapods
+    url: https://github.com/CycloneDX/cyclonedx-cocoapods
+    description: Creates CycloneDX Software Bill-of-Materials (SBOM) from Objective-C and Swift projects that use CocoaPods.
+  - name: cyclonedx-conan
+    url: https://github.com/CycloneDX/cyclonedx-conan
+    description: Creates CycloneDX Software Bill of Materials (SBOM) documents for C/C++ projects using Conan
+  - name: cyclonedx-conda
+    url: https://github.com/CycloneDX/cyclonedx-conda
+    description: conda plugin to generate CycloneDX SBOM
+  - name: cyclonedx-core-java
+    url: https://github.com/CycloneDX/cyclonedx-core-java
+    description: CycloneDX SBOM Model and Utils for Creating and Validating BOMs
+  - name: cyclonedx-dotnet
+    url: https://github.com/CycloneDX/cyclonedx-dotnet
+    description: Creates CycloneDX Software Bill of Materials (SBOM) from .NET Projects
+  - name: cyclonedx-dotnet-library
+    url: https://github.com/CycloneDX/cyclonedx-dotnet-library
+    description: .NET library to consume and produce CycloneDX Software Bill of Materials (SBOM)
+  - name: cyclonedx-esbuild
+    url: https://github.com/CycloneDX/cyclonedx-esbuild
+    description: Create CycloneDX Software Bill of Materials (SBOM) from esbuild projects
+  - name: cyclonedx-go
+    url: https://github.com/CycloneDX/cyclonedx-go
+    description: Go library to consume and produce CycloneDX Software Bill of Materials (SBOM)
+  - name: cyclonedx-gomod
+    url: https://github.com/CycloneDX/cyclonedx-gomod
+    description: Creates CycloneDX Software Bill of Materials (SBOM) from Go modules
+  - name: cyclonedx-gradle-plugin
+    url: https://github.com/CycloneDX/cyclonedx-gradle-plugin
+    description: Creates CycloneDX Software Bill of Materials (SBOM) from Gradle projects
+  - name: cyclonedx-javascript-library
+    url: https://github.com/CycloneDX/cyclonedx-javascript-library
+    description: Core functionality of OWASP CycloneDX for JavaScript (Node.js or WebBrowser) written in TypeScript.
+  - name: cyclonedx-linux-generator
+    url: https://github.com/CycloneDX/cyclonedx-linux-generator
+    description: Lockheed Martin developed utility to generate CycloneDX SBOMs for Linux distributions
+  - name: cyclonedx-maven-plugin
+    url: https://github.com/CycloneDX/cyclonedx-maven-plugin
+    description: Creates CycloneDX Software Bill of Materials (SBOM) from Maven projects
+  - name: cyclonedx-node-module
+    url: https://github.com/CycloneDX/cyclonedx-node-module
+    description: creates CycloneDX Software-Bill-of-Materials (SBOM) from node-based projects
+  - name: cyclonedx-node-npm
+    url: https://github.com/CycloneDX/cyclonedx-node-npm
+    description: 'Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. '
+  - name: cyclonedx-node-pnpm
+    url: https://github.com/CycloneDX/cyclonedx-node-pnpm
+    description: 'Create CycloneDX Software Bill of Materials (SBOM) from Node.js PNPM projects. '
+  - name: cyclonedx-node-yarn
+    url: https://github.com/CycloneDX/cyclonedx-node-yarn
+    description: Create CycloneDX Software Bill of Materials (SBOM) from Node.js Yarn projects.
+  - name: cyclonedx-nuget
+    url: https://github.com/CycloneDX/cyclonedx-nuget
+    description: Creates CycloneDX Software Bill-of-Materials (SBoM) from NuGet projects
+  - name: cyclonedx-otm-java
+    url: https://github.com/CycloneDX/cyclonedx-otm-java
+    description: EXPERIMENTAL CycloneDX library and utility to convert BOMs into Open Threat Model (OTM) format
+  - name: cyclonedx-php-composer
+    url: https://github.com/CycloneDX/cyclonedx-php-composer
+    description: Create CycloneDX Software Bill of Materials (SBOM) from PHP Composer projects
+  - name: cyclonedx-php-library
+    url: https://github.com/CycloneDX/cyclonedx-php-library
+    description: PHP Implementation of OWASP CycloneDX Bill of Materials (BOM)
+  - name: cyclonedx-property-taxonomy
+    url: https://github.com/CycloneDX/cyclonedx-property-taxonomy
+    description: A taxonomy of all official CycloneDX property namespaces and names
+  - name: cyclonedx-python
+    url: https://github.com/CycloneDX/cyclonedx-python
+    description: CycloneDX Software Bill of Materials (SBOM) generator for Python projects and environments
+  - name: cyclonedx-python-lib
+    url: https://github.com/CycloneDX/cyclonedx-python-lib
+    description: Python implementation of OWASP CycloneDX
+  - name: cyclonedx-ruby-gem
+    url: https://github.com/CycloneDX/cyclonedx-ruby-gem
+    description: Creates CycloneDX Software Bill of Materials (SBOM) from Ruby projects
+  - name: cyclonedx-rust-cargo
+    url: https://github.com/CycloneDX/cyclonedx-rust-cargo
+    description: Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects
+  - name: cyclonedx-web-tool
+    url: https://github.com/CycloneDX/cyclonedx-web-tool
+    description: A web based tool for working with CycloneDX BOMs
+  - name: cyclonedx-webpack-plugin
+    url: https://github.com/CycloneDX/cyclonedx-webpack-plugin
+    description: Generate CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.
+  - name: cyclonedx.org-archived
+    url: https://github.com/CycloneDX/cyclonedx.org-archived
+    description: Public website cyclonedx.org
+  - name: fork_good-first-issue
+    url: https://github.com/CycloneDX/fork_good-first-issue
+    description: 'fork for contrib: Make your first open-source contribution.'
+  - name: fork_schemastore
+    url: https://github.com/CycloneDX/fork_schemastore
+    description: 'fork for contrib: A collection of JSON schema files including full API'
+  - name: gh-cocoapods-generate-sbom
+    url: https://github.com/CycloneDX/gh-cocoapods-generate-sbom
+    description: GitHub action to generate a CycloneDX SBOM for Swift and Objective-C projects that use CocoaPods.
+  - name: gh-dotnet-generate-sbom
+    url: https://github.com/CycloneDX/gh-dotnet-generate-sbom
+    description: GitHub action to generate a CycloneDX SBOM for .NET
+  - name: gh-gomod-generate-sbom
+    url: https://github.com/CycloneDX/gh-gomod-generate-sbom
+    description: GitHub action to generate a CycloneDX SBOM for Go modules
+  - name: gh-node-module-generatebom
+    url: https://github.com/CycloneDX/gh-node-module-generatebom
+    description: GitHub action to generate a CycloneDX SBOM for Node.js
+  - name: gh-php-composer-generate-sbom
+    url: https://github.com/CycloneDX/gh-php-composer-generate-sbom
+    description: GitHub action to generate a CycloneDX SBOM for PHP Composer
+  - name: gh-python-generate-sbom
+    url: https://github.com/CycloneDX/gh-python-generate-sbom
+    description: GitHub action to generate a CycloneDX SBOM for Python
+  - name: guides
+    url: https://github.com/CycloneDX/guides
+  - name: homebrew-cyclonedx
+    url: https://github.com/CycloneDX/homebrew-cyclonedx
+    description: CycloneDX Homebrew Tap
+  - name: license-scanner
+    url: https://github.com/CycloneDX/license-scanner
+    description: Utility that provides an API and CLI to identify licenses and legal terms
+  - name: official-3rd-party-standards
+    url: https://github.com/CycloneDX/official-3rd-party-standards
+    description: A collection of machine-readable third-party standards and requirements in CycloneDX format
+  - name: sbom-combiner
+    url: https://github.com/CycloneDX/sbom-combiner
+    description: Lockheed Martin developed utility to combine multiple CycloneDX SBOMs
+  - name: sbom-commons
+    url: https://github.com/CycloneDX/sbom-commons
+    description: Lockheed Martin developed common SBOM library
+  - name: sbom-commons-combiner
+    url: https://github.com/CycloneDX/sbom-commons-combiner
+    description: Lockheed Martin developed common library to combine multiple SBOMs
+  - name: sbom-comparator
+    url: https://github.com/CycloneDX/sbom-comparator
+    description: Lockheed Martin developed utility to compare two CycloneDX SBOMs
+  - name: sbom-utility
+    url: https://github.com/CycloneDX/sbom-utility
+    description: Utility that provides an API platform for validating, querying and managing BOM data
+  - name: specification
+    url: https://github.com/CycloneDX/specification
+    description: OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction.
+      SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and VEX
+  - name: std-curves
+    url: https://github.com/CycloneDX/std-curves
+    description: Standard curve database.
+  - name: Sunshine
+    url: https://github.com/CycloneDX/Sunshine
+    description: Sunshine - SBOM visualization tool
+  - name: tool-center
+    url: https://github.com/CycloneDX/tool-center
+    description: Data and schema powering the worlds largest collection of SBOM/xBOM products, projects, and services
+  - name: transparency-exchange-api
+    url: https://github.com/CycloneDX/transparency-exchange-api
+    description: A standard API specification for exchanging supply chain artifacts and intelligence
+  - name: transparency-exchange-api-test-data
+    url: https://github.com/CycloneDX/transparency-exchange-api-test-data
+    description: Test data for Transparency Exchange API
+  - name: transparency-exchange-client
+    url: https://github.com/CycloneDX/transparency-exchange-client
+    description: TEA Client, written in Go
+tags:
+  - cyclonedx
+  - bom
+  - sbom
+  - ''
+  - scrm
+  - cscrm
+  - transparency
+  - supply-chain
+type: documentation
+website: https://owasp.org/www-project-cyclonedx
