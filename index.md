@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP CycloneDX (ECMA-424)
-tags: cyclonedx bom sbom  scrm cscrm transparency supply-chain
+tags: cyclonedx bom sbom scrm cscrm transparency supply-chain
 level: 4
 type: standards
 pitch: OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction.
