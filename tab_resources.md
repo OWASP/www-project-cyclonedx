@@ -20,4 +20,4 @@ tags: cyclonedx bom sbom  scrm cscrm transparency supply-chain
 <br> _European Union Agency for Cybersecurity (ENISA)_
   
 * [OWASP Software Component Verification Standard (SCVS)](https://owasp.org/scvs)
-<br> _Open Web Application Security Project (OWASP)_
+<br> _Open Worldwide Application Security Project (OWASP)_
